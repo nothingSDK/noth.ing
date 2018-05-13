@@ -1,5 +1,4 @@
-
-[![N|noth.ing](https://nothingsdk.github.io/noth.ing/res/nothing.png)
+![N|noth.ing](https://nothingsdk.github.io/noth.ing/res/nothing.png)
 #
 noth.ing is a lightweight SDK for developing clean and fast software. No bugs. No complication. No errors. It just works.
 
