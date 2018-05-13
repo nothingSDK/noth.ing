@@ -4,7 +4,7 @@ noth.ing is a lightweight SDK for developing clean and fast software. No bugs. N
 
 Nothing was designed as an addition to a developer's toolkit to help them increase productivity when coding and eliminate bugs.
 
-Plenty of time and effor went into noth.ing, so you can donate Dogecoin [here](http://checkmydoge.org/donate.html).
+Plenty of time and effort went into noth.ing, so you can donate Dogecoin [here](http://checkmydoge.org/donate.html).
 
 
 # Speed
